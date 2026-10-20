@@ -1,0 +1,188 @@
+[
+  {
+    "competitor_id": "coursera",
+    "competitor_name": "Coursera",
+    "website": "https://www.coursera.org",
+    "target_audience": "University students and working professionals seeking accredited university degrees and certificates",
+    "offerings": [
+      {
+        "course_title": "Python for Everybody Specialization (Univ of Michigan)",
+        "category_slug": "python-programming",
+        "verified_price": "$49/month",
+        "currency": "USD",
+        "pricing_status": "verified",
+        "promo_text": "7-day free trial; financial aid available",
+        "cta_text": "Enroll for Free",
+        "landing_url": "https://www.coursera.org/specializations/python",
+        "confidence_level": "High"
+      },
+      {
+        "course_title": "Google Data Analytics Professional Certificate",
+        "category_slug": "data-analytics",
+        "verified_price": "$49/month",
+        "currency": "USD",
+        "pricing_status": "verified",
+        "promo_text": "Complete in under 6 months at 10 hours a week",
+        "cta_text": "Enroll Now",
+        "landing_url": "https://www.coursera.org/professional-certificates/google-data-analytics",
+        "confidence_level": "High"
+      },
+      {
+        "course_title": "Deep Learning Specialization (DeepLearning.AI)",
+        "category_slug": "artificial-intelligence",
+        "verified_price": "$49/month",
+        "currency": "USD",
+        "pricing_status": "verified",
+        "promo_text": "Taught by Andrew Ng",
+        "cta_text": "Enroll Now",
+        "landing_url": "https://www.coursera.org/specializations/deep-learning",
+        "confidence_level": "High"
+      },
+      {
+        "course_title": "Meta Social Media Marketing Professional Certificate",
+        "category_slug": "digital-marketing",
+        "verified_price": "$49/month",
+        "currency": "USD",
+        "pricing_status": "verified",
+        "promo_text": "No degree or experience required",
+        "cta_text": "Start Free Trial",
+        "landing_url": "https://www.coursera.org/professional-certificates/meta-social-media-marketing",
+        "confidence_level": "High"
+      }
+    ]
+  },
+  {
+    "competitor_id": "udemy",
+    "competitor_name": "Udemy",
+    "website": "https://www.udemy.com",
+    "target_audience": "Self-paced learners looking for affordable, practical skill tutorials",
+    "offerings": [
+      {
+        "course_title": "100 Days of Code: The Complete Python Pro Bootcamp",
+        "category_slug": "python-programming",
+        "verified_price": "₹499 (Discounted from ₹3,499)",
+        "currency": "INR",
+        "pricing_status": "verified",
+        "promo_text": "Limited time offer 85% off",
+        "cta_text": "Buy Now",
+        "landing_url": "https://www.udemy.com/course/100-days-of-code",
+        "confidence_level": "High"
+      },
+      {
+        "course_title": "The Data Science & Analytics Bootcamp",
+        "category_slug": "data-analytics",
+        "verified_price": "₹499 (Discounted from ₹3,299)",
+        "currency": "INR",
+        "pricing_status": "verified",
+        "promo_text": "30-day money-back guarantee",
+        "cta_text": "Add to Cart",
+        "landing_url": "https://www.udemy.com/topic/data-analytics",
+        "confidence_level": "High"
+      },
+      {
+        "course_title": "Artificial Intelligence A-Z: Build 7 AIs",
+        "category_slug": "artificial-intelligence",
+        "verified_price": "₹599 (Discounted from ₹3,999)",
+        "currency": "INR",
+        "pricing_status": "verified",
+        "promo_text": "Updated with ChatGPT & Generative AI",
+        "cta_text": "Buy Now",
+        "landing_url": "https://www.udemy.com/course/artificial-intelligence-az",
+        "confidence_level": "High"
+      },
+      {
+        "course_title": "The Complete Digital Marketing Course - 12 Courses in 1",
+        "category_slug": "digital-marketing",
+        "verified_price": "₹499 (Discounted from ₹3,199)",
+        "currency": "INR",
+        "pricing_status": "verified",
+        "promo_text": "Best seller with 700k+ students",
+        "cta_text": "Buy Now",
+        "landing_url": "https://www.udemy.com/course/learn-digital-marketing-course",
+        "confidence_level": "High"
+      }
+    ]
+  },
+  {
+    "competitor_id": "great_learning",
+    "competitor_name": "Great Learning",
+    "website": "https://www.mygreatlearning.com",
+    "target_audience": "Working professionals seeking executive certificates and university diplomas",
+    "offerings": [
+      {
+        "course_title": "Post Graduate Program in Data Science and Business Analytics",
+        "category_slug": "data-analytics",
+        "verified_price": "₹2,75,000 + GST",
+        "currency": "INR",
+        "pricing_status": "verified",
+        "promo_text": "Dual certificate with UT Austin McCombs",
+        "cta_text": "Download Brochure",
+        "landing_url": "https://www.mygreatlearning.com/pg-program-data-science-and-business-analytics-course",
+        "confidence_level": "High"
+      },
+      {
+        "course_title": "PG Program in Artificial Intelligence for Leaders",
+        "category_slug": "artificial-intelligence",
+        "verified_price": "Not publicly verified",
+        "currency": "INR",
+        "pricing_status": "not_publicly_verified",
+        "promo_text": "Requires admission counseling call",
+        "cta_text": "Apply Now",
+        "landing_url": "https://www.mygreatlearning.com/pg-program-artificial-intelligence-course",
+        "confidence_level": "Medium"
+      },
+      {
+        "course_title": "Python for Non-Programmers (Free Course)",
+        "category_slug": "python-programming",
+        "verified_price": "Free",
+        "currency": "INR",
+        "pricing_status": "free",
+        "promo_text": "Free certification included upon quiz completion",
+        "cta_text": "Enroll for Free",
+        "landing_url": "https://www.mygreatlearning.com/academy/learn-for-free/courses/python-for-non-programmers",
+        "confidence_level": "High"
+      }
+    ]
+  },
+  {
+    "competitor_id": "simplilearn",
+    "competitor_name": "Simplilearn",
+    "website": "https://www.simplilearn.com",
+    "target_audience": "Mid-career engineers pursuing corporate-aligned bootcamps and certifications",
+    "offerings": [
+      {
+        "course_title": "Applied Generative AI Specialization (Purdue Univ)",
+        "category_slug": "artificial-intelligence",
+        "verified_price": "₹1,45,000",
+        "currency": "INR",
+        "pricing_status": "verified",
+        "promo_text": "Live interactive classes with industry masterclasses",
+        "cta_text": "Apply Now",
+        "landing_url": "https://www.simplilearn.com/generative-ai-course",
+        "confidence_level": "High"
+      },
+      {
+        "course_title": "Digital Marketing Specialist Masters Program",
+        "category_slug": "digital-marketing",
+        "verified_price": "₹44,999",
+        "currency": "INR",
+        "pricing_status": "verified",
+        "promo_text": "Includes Meta Blueprint & Google Ads exam vouchers",
+        "cta_text": "Enroll Now",
+        "landing_url": "https://www.simplilearn.com/digital-marketing-specialist-masters-program",
+        "confidence_level": "High"
+      },
+      {
+        "course_title": "Enterprise Cloud Architecture Program",
+        "category_slug": "data-analytics",
+        "verified_price": "Not publicly verified",
+        "currency": "USD",
+        "pricing_status": "not_publicly_verified",
+        "promo_text": "Custom enterprise quotes upon request",
+        "cta_text": "Contact Sales",
+        "landing_url": "https://www.simplilearn.com/enterprise",
+        "confidence_level": "Medium"
+      }
+    ]
+  }
+]

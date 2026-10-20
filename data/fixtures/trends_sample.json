@@ -1,0 +1,156 @@
+[
+  {
+    "term": "python course",
+    "category_slug": "python-programming",
+    "geography": "IN",
+    "date_observed": "2026-07-26",
+    "relative_interest": 78.0,
+    "momentum": 3.2,
+    "direction": "rising",
+    "source_url": "https://trends.google.com/trends/explore?geo=IN&q=python+course",
+    "is_demo": 1
+  },
+  {
+    "term": "python course",
+    "category_slug": "python-programming",
+    "geography": "IN",
+    "date_observed": "2026-08-02",
+    "relative_interest": 82.0,
+    "momentum": 4.0,
+    "direction": "rising",
+    "source_url": "https://trends.google.com/trends/explore?geo=IN&q=python+course",
+    "is_demo": 1
+  },
+  {
+    "term": "python course",
+    "category_slug": "python-programming",
+    "geography": "IN",
+    "date_observed": "2026-08-09",
+    "relative_interest": 86.0,
+    "momentum": 4.0,
+    "direction": "rising",
+    "source_url": "https://trends.google.com/trends/explore?geo=IN&q=python+course",
+    "is_demo": 1
+  },
+  {
+    "term": "learn python for beginners",
+    "category_slug": "python-programming",
+    "geography": "IN",
+    "date_observed": "2026-08-09",
+    "relative_interest": 92.0,
+    "momentum": 6.5,
+    "direction": "breakout",
+    "source_url": "https://trends.google.com/trends/explore?geo=IN&q=learn+python+for+beginners",
+    "is_demo": 1
+  },
+  {
+    "term": "python for data analysis",
+    "category_slug": "python-programming",
+    "geography": "IN",
+    "date_observed": "2026-08-09",
+    "relative_interest": 64.0,
+    "momentum": 2.1,
+    "direction": "rising",
+    "source_url": "https://trends.google.com/trends/explore?geo=IN&q=python+for+data+analysis",
+    "is_demo": 1
+  },
+  {
+    "term": "data analytics course",
+    "category_slug": "data-analytics",
+    "geography": "IN",
+    "date_observed": "2026-08-09",
+    "relative_interest": 88.0,
+    "momentum": 5.2,
+    "direction": "rising",
+    "source_url": "https://trends.google.com/trends/explore?geo=IN&q=data+analytics+course",
+    "is_demo": 1
+  },
+  {
+    "term": "learn sql for analytics",
+    "category_slug": "data-analytics",
+    "geography": "IN",
+    "date_observed": "2026-08-09",
+    "relative_interest": 74.0,
+    "momentum": 3.8,
+    "direction": "rising",
+    "source_url": "https://trends.google.com/trends/explore?geo=IN&q=learn+sql+for+analytics",
+    "is_demo": 1
+  },
+  {
+    "term": "power bi certification",
+    "category_slug": "data-analytics",
+    "geography": "IN",
+    "date_observed": "2026-08-09",
+    "relative_interest": 81.0,
+    "momentum": 4.9,
+    "direction": "rising",
+    "source_url": "https://trends.google.com/trends/explore?geo=IN&q=power+bi+certification",
+    "is_demo": 1
+  },
+  {
+    "term": "generative ai course",
+    "category_slug": "artificial-intelligence",
+    "geography": "IN",
+    "date_observed": "2026-08-09",
+    "relative_interest": 95.0,
+    "momentum": 12.4,
+    "direction": "breakout",
+    "source_url": "https://trends.google.com/trends/explore?geo=IN&q=generative+ai+course",
+    "is_demo": 1
+  },
+  {
+    "term": "prompt engineering course",
+    "category_slug": "artificial-intelligence",
+    "geography": "IN",
+    "date_observed": "2026-08-09",
+    "relative_interest": 69.0,
+    "momentum": -1.2,
+    "direction": "falling",
+    "source_url": "https://trends.google.com/trends/explore?geo=IN&q=prompt+engineering+course",
+    "is_demo": 1
+  },
+  {
+    "term": "llm application development",
+    "category_slug": "artificial-intelligence",
+    "geography": "IN",
+    "date_observed": "2026-08-09",
+    "relative_interest": 77.0,
+    "momentum": 8.1,
+    "direction": "rising",
+    "source_url": "https://trends.google.com/trends/explore?geo=IN&q=llm+application+development",
+    "is_demo": 1
+  },
+  {
+    "term": "digital marketing course",
+    "category_slug": "digital-marketing",
+    "geography": "IN",
+    "date_observed": "2026-08-09",
+    "relative_interest": 71.0,
+    "momentum": 0.5,
+    "direction": "stable",
+    "source_url": "https://trends.google.com/trends/explore?geo=IN&q=digital+marketing+course",
+    "is_demo": 1
+  },
+  {
+    "term": "seo mastery course",
+    "category_slug": "digital-marketing",
+    "geography": "IN",
+    "date_observed": "2026-08-09",
+    "relative_interest": 58.0,
+    "momentum": 1.1,
+    "direction": "stable",
+    "source_url": "https://trends.google.com/trends/explore?geo=IN&q=seo+mastery+course",
+    "is_demo": 1
+  },
+  {
+    "term": "performance marketing meta ads",
+    "category_slug": "digital-marketing",
+    "geography": "IN",
+    "date_observed": "2026-08-09",
+    "relative_interest": 83.0,
+    "momentum": 6.8,
+    "direction": "rising",
+    "source_url": "https://trends.google.com/trends/explore?geo=IN&q=performance+marketing+meta+ads",
+    "is_demo": 1
+  }
+]

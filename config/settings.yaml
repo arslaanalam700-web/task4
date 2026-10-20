@@ -1,0 +1,146 @@
+# AI Market Demand & Growth Intelligence Agent Configuration
+
+app:
+  name: "AI Market Demand & Growth Intelligence Agent"
+  version: "1.0.0"
+  environment: "development"
+  log_level: "INFO"
+
+# Market Research Scope
+research:
+  industry: "Online education"
+  categories:
+    - name: "Python programming"
+      slug: "python-programming"
+      keywords:
+        - "python course"
+        - "learn python for beginners"
+        - "python for data analysis"
+        - "python backend development"
+        - "python automation script"
+    - name: "Data Analytics"
+      slug: "data-analytics"
+      keywords:
+        - "data analytics course"
+        - "learn sql for analytics"
+        - "power bi certification"
+        - "business intelligence analyst"
+        - "data analyst roadmap"
+    - name: "Artificial Intelligence"
+      slug: "artificial-intelligence"
+      keywords:
+        - "generative ai course"
+        - "learn machine learning"
+        - "prompt engineering course"
+        - "llm application development"
+        - "deep learning fundamentals"
+    - name: "Digital Marketing"
+      slug: "digital-marketing"
+      keywords:
+        - "digital marketing course"
+        - "seo mastery course"
+        - "performance marketing meta ads"
+        - "content marketing strategy"
+        - "growth marketing bootcamp"
+
+  geographies:
+    primary:
+      code: "IN"
+      name: "India"
+    optional:
+      - code: "US"
+        name: "United States"
+      - code: "GB"
+        name: "United Kingdom"
+      - code: ""
+        name: "Worldwide"
+
+  timeframes:
+    default: "today 3-m"
+    options:
+      - "today 1-m"
+      - "today 3-m"
+      - "today 12-m"
+
+# Competitor Tracking Profiles
+competitors:
+  - id: "coursera"
+    name: "Coursera"
+    website: "https://www.coursera.org"
+    target_audience: "University students and working professionals seeking accredited certifications"
+    sample_categories: ["Python", "Data Science", "AI", "Marketing"]
+    public_catalog_url: "https://www.coursera.org"
+  - id: "udemy"
+    name: "Udemy"
+    website: "https://www.udemy.com"
+    target_audience: "Self-paced learners looking for affordable, practical skill tutorials"
+    sample_categories: ["Python", "Web Development", "Data Analytics", "AI"]
+    public_catalog_url: "https://www.udemy.com"
+  - id: "great_learning"
+    name: "Great Learning"
+    website: "https://www.mygreatlearning.com"
+    target_audience: "Indian and global professionals seeking executive post-graduate diplomas"
+    sample_categories: ["Data Analytics", "Cloud Computing", "AI", "Management"]
+    public_catalog_url: "https://www.mygreatlearning.com"
+  - id: "simplilearn"
+    name: "Simplilearn"
+    website: "https://www.simplilearn.com"
+    target_audience: "IT professionals pursuing role-based bootcamps and enterprise certifications"
+    sample_categories: ["Data Analytics", "Cybersecurity", "Digital Marketing", "AI"]
+    public_catalog_url: "https://www.simplilearn.com"
+
+# Audience Discovery Communities & Keywords
+audience:
+  subreddits:
+    - "learnpython"
+    - "dataanalysis"
+    - "MachineLearning"
+    - "datascience"
+    - "digitalmarketing"
+  pain_point_triggers:
+    - "beginner difficulty"
+    - "career switch"
+    - "is it worth it"
+    - "recommend course"
+    - "too expensive"
+    - "certificate value"
+    - "roadmap"
+    - "stuck on"
+
+# Deterministic Opportunity Scoring Engine Weights (must sum to 1.0)
+scoring_weights:
+  demand_evidence: 0.30
+  industry_relevance: 0.20
+  growth_momentum: 0.15
+  competitive_opportunity: 0.15
+  audience_intent: 0.10
+  evidence_quality: 0.10
+
+# Data Collectors Configuration
+collectors:
+  google_trends:
+    enabled: true
+    sleep_between_requests: 2.0
+    timeout_seconds: 10
+    max_retries: 2
+    allow_demo_fallback: true
+  competitor:
+    enabled: true
+    request_timeout: 8
+    user_agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 MarketIntelligenceBot/1.0"
+    max_pages_per_domain: 3
+    verify_ssl: true
+  audience:
+    enabled: true
+    request_timeout: 8
+    max_posts_per_sub: 15
+
+# Storage Configuration
+storage:
+  database_path: "data/market_intelligence.db"
+  fixture_path: "data/fixtures"
+
+# Daily Report Settings
+reporting:
+  output_dir: "reports"
+  top_n_opportunities: 5

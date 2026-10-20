@@ -1,0 +1,82 @@
+[
+  {
+    "category_slug": "python-programming",
+    "source_type": "reddit",
+    "title_or_question": "Should I pay $500 for a Python bootcamp or just use YouTube and free documentation?",
+    "body_snippet": "I am a complete beginner trying to switch from retail to tech. I keep seeing ads for expensive Python bootcamps, but people on Reddit say documentation + CS50 is enough. What is the actual difference in hiring value?",
+    "intent_classification": "purchase_oriented",
+    "pain_point_cluster": "pricing_objection",
+    "confidence_score": 0.95,
+    "source_url": "https://www.reddit.com/r/learnpython/comments/sample_bootcamp_vs_free/"
+  },
+  {
+    "category_slug": "python-programming",
+    "source_type": "reddit",
+    "title_or_question": "I understand syntax but get completely paralyzed when trying to build a project from scratch",
+    "body_snippet": "I finished a 40-hour course on Udemy, passed all exercises, but when opening VS Code to make my own tool, I have zero clue where to start. Is there a tutorial that teaches project planning rather than just syntax?",
+    "intent_classification": "skill_development",
+    "pain_point_cluster": "beginner_difficulty",
+    "confidence_score": 0.92,
+    "source_url": "https://www.reddit.com/r/learnpython/comments/sample_tutorial_hell/"
+  },
+  {
+    "category_slug": "data-analytics",
+    "source_type": "reddit",
+    "title_or_question": "Coursera Google Data Analytics vs Power BI Microsoft Certificate for getting hired in 2026?",
+    "body_snippet": "Looking at job postings in Bangalore and remote US roles. Almost all ask for Power BI and SQL rather than R. Is the Google certificate still relevant or should I focus on direct Microsoft Power BI credentials?",
+    "intent_classification": "comparison",
+    "pain_point_cluster": "certification_value",
+    "confidence_score": 0.94,
+    "source_url": "https://www.reddit.com/r/dataanalysis/comments/sample_google_vs_powerbi/"
+  },
+  {
+    "category_slug": "data-analytics",
+    "source_type": "reddit",
+    "title_or_question": "32-year old accountant wanting to switch to Data Analytics: What is a realistic 6-month roadmap?",
+    "body_snippet": "I have strong Excel skills and domain knowledge in finance. Can I transition into business intelligence without a computer science degree? How many hours a week do I actually need?",
+    "intent_classification": "career_related",
+    "pain_point_cluster": "career_switch",
+    "confidence_score": 0.91,
+    "source_url": "https://www.reddit.com/r/datascience/comments/sample_accountant_switch/"
+  },
+  {
+    "category_slug": "artificial-intelligence",
+    "source_type": "reddit",
+    "title_or_question": "How to move beyond Prompt Engineering to actual LLM Agent development with LangChain / LlamaIndex?",
+    "body_snippet": "Every junior tutorial just teaches API calls to OpenAI. I want to build production multi-agent workflows with local models, vector databases, and evaluation frameworks. What is the best practical resource?",
+    "intent_classification": "skill_development",
+    "pain_point_cluster": "skill_depth",
+    "confidence_score": 0.93,
+    "source_url": "https://www.reddit.com/r/MachineLearning/comments/sample_beyond_prompting/"
+  },
+  {
+    "category_slug": "artificial-intelligence",
+    "source_type": "reddit",
+    "title_or_question": "Are executive AI certification programs worth 2-3 Lakhs INR or is it just university branding markup?",
+    "body_snippet": "I received calls from counselors pitching 6-month AI diplomas with Ivy League or IIT branding. Has anyone actually seen a salary bump solely due to the name on the certificate?",
+    "intent_classification": "purchase_oriented",
+    "pain_point_cluster": "pricing_objection",
+    "confidence_score": 0.96,
+    "source_url": "https://www.reddit.com/r/MachineLearning/comments/sample_executive_ai_cost/"
+  },
+  {
+    "category_slug": "digital-marketing",
+    "source_type": "reddit",
+    "title_or_question": "Organic SEO vs Meta Performance Marketing: Where should a beginner start in India?",
+    "body_snippet": "I want to freelance or join an agency. Most job boards ask for performance marketing (ROAS, Facebook Ads Manager, Google Ads), but course sellers push SEO. Which skill delivers clients faster?",
+    "intent_classification": "career_related",
+    "pain_point_cluster": "career_switch",
+    "confidence_score": 0.89,
+    "source_url": "https://www.reddit.com/r/digitalmarketing/comments/sample_seo_vs_meta/"
+  },
+  {
+    "category_slug": "digital-marketing",
+    "source_type": "reddit",
+    "title_or_question": "Free tools vs paid Semrush/Ahrefs for learning technical SEO audits?",
+    "body_snippet": "I am a student and cannot afford a $129/mo Ahrefs subscription. What free workflows can I use to build a portfolio showing I know technical audits, screamer frog, and search console?",
+    "intent_classification": "informational",
+    "pain_point_cluster": "tooling_barrier",
+    "confidence_score": 0.90,
+    "source_url": "https://www.reddit.com/r/digitalmarketing/comments/sample_free_seo_tools/"
+  }
+]
